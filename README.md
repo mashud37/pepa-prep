@@ -1,3 +1,5 @@
+Archived version. Development continues at [mashud37/pepa-workers/](https://github.com/mashud37/pepa-workers).
+
 # pepa-prep
 
 The job of pepa-prep is to produce clean, uniform text, and PDFs almost never come that way. It takes a folder of PDFs, whether born-digital papers, multi-chapter books, or scanned volumes, and turns each one into clean markdown, so the later stages can work on the content instead of fighting the layout. Everything runs locally and deterministically, with no API calls, so the source material never leaves the machine.
